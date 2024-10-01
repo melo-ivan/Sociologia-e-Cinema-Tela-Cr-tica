@@ -1,0 +1,334 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>STUDIO NTE</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+<body class="w3-light-grey w3-content" style="max-width:1600px">
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-collapse w3-white w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
+  <div class="w3-container">
+    <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
+      <i class="fa fa-remove"></i>
+    </a>
+   <img src="https://cdn.glitch.global/4eccfc4b-84d6-4297-b276-be6f4e3b867a/58e46df5-c104-4cb4-9fe9-4a203d9e1c7d.image.png?v=1724849121422" width="300" height="200"><br><br> <!-- Avatar -->
+ <!-- Avatar -->
+    <h4><b>XVII Feira de Ciências  – Agosto de 2024.</b></h4>
+     </div>
+ <div class="w3-bar-block">
+    <a href="" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-th-large fa-fw w3-margin-right"></i>Vídeos</a>
+   <!--
+    <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-user fa-fw w3-margin-right"></i>Sobre o NTE - IEE</a>
+    <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>Contato</a>
+  </div>
+  <div class="w3-panel w3-large">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+-->
+
+  </div>
+</nav>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:300px">
+
+  <!-- Header -->
+  <header id="portfolio">
+    <a href="#"><img src="https://cdn.glitch.global/4eccfc4b-84d6-4297-b276-be6f4e3b867a/58e46df5-c104-4cb4-9fe9-4a203d9e1c7d.image.png?v=1724849121422" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
+    <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
+    <div class="w3-container">
+    <h2><b>Sociologia e Cinema: Tela Crítica</b></h2>
+   <!-- <div class="w3-section w3-bottombar w3-padding-16">
+      <span class="w3-margin-right">Filter:</span> 
+      <button class="w3-button w3-black">ALL</button>
+      <button class="w3-button w3-white"><i class="fa fa-diamond w3-margin-right"></i>Design</button>
+      <button class="w3-button w3-white w3-hide-small"><i class="fa fa-photo w3-margin-right"></i>Photos</button>
+      <button class="w3-button w3-white w3-hide-small"><i class="fa fa-map-pin w3-margin-right"></i>Art</button>
+    </div> -->
+    </div>
+  </header>
+  
+  <!-- First Photo Grid-->
+  <div class="w3-row-padding">
+    
+    <!-- Projeto 1-->
+    <div class="w3-third w3-container w3-margin-bottom">
+       <a href="https://www.youtube.com/watch?v=h30BO_6kFNM" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/Iy4AGLrEqEA" title="Ilha das Flores - TRECHOS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+        <a href="https://www.youtube.com/watch?v=h30BO_6kFNM" target="_blank"><p><b>Ilha das Flores</b></p></a>
+        <p>O curta metragem a Ilha das Flores foi produzido no ano de 1989 na direção de Jorge Furtado. O curta traz uma crítica profunda ao capitalismo e as desigualdades socioeconômicas produzidas por esse sistema. 
+          Questões como a fome , a sociedade do consumo, o descarte inapropriado do lixo e a condição humana, no sentido da filósofa Hannah Arendt (2010) são pautas presentes no documentário. Um fato muito interessante, é que no ano de 2019, após 30 anos de lançamento do curta, a ABRACCINE (Associação Brasileira de Críticos de Cinema) elegeu a Ilha das Flores como melhor curta-metragem brasileiro da história. Vale a pena assistir e tomar conhecimento sobre uma realidade, ainda vivida, pelas pessoas que moram na Ilha Flores. 
+          <br>(<b>Professora Dra. Melissa Gabriella Lopes Barcellos</b> – Componente Curricular de Sociologia do Instituto Estadual de Educação – IEE.)</p>
+      </div>
+      
+      <!-- Projeto 2-->
+    </div>
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://www.youtube.com/watch?v=S2bh6QhIqJ8" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/S2bh6QhIqJ8" title="O passageiro negro." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+         <a href="https://www.youtube.com/watch?v=S2bh6QhIqJ8" target="_blank"><p><b>O Passageiro Negro</b></p></a>
+        <p> No curta-metragem Schwarzfaherer, de 1994, o diretor Pepe Danquart, de forma inteligente, aborda a questão da xenofobia utilizando um bonde como cenário. 
+          Podemos perceber o bonde como um microcosmo da Alemanha, representada por suas minorias étnicas, como o jovem negro, imigrante, que senta-se ao lado de uma mulher idosa. 
+          No bonde também se encontram dois adolescentes turcos e os demais passageiros representam a população tradicionalmente alemã A senhora representa a parte xenófoba da população."
+
+Tema: Xenofobia <br>
+          (<b>Professora Dra. Raquel de Abreu</b>
+Laboratorista e Professora do Instituto Estadual de Educação IEE
+Componentes curricular: Sociologia e Fundamentos da Educação - Magistério)
+</p>
+      </div>
+    </div>
+    
+    <!-- Projeto 3-->
+    <div class="w3-third w3-container">
+      <a href="https://www.youtube.com/embed/KrPEu9h_fEA" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/KrPEu9h_fEA" title="Uma Aventura Lego- Musica Tudo é Incrível -Português HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+        <a href="https://www.youtube.com/embed/KrPEu9h_fEA" target="_blank"><p><b>Uma Aventura LEGO</b></p></a>
+        <p>Uma Aventura LEGO" (2014) é um filme de animação que, embora seja voltado para um público infantil, aborda temas e mensagens que podem ser relacionadas com as teorias de Karl Marx, Max Weber e Émile Durkheim para explorar temas de alienação, burocracia, racionalização, coesão social e criatividade. Cada teórico oferece uma lente diferente através da qual podemos entender as dinâmicas sociais e os conflitos apresentados no filme.
+
+          (br)(<b>Professora Ivi Porfírio</b> – Cientista Social – Universidade Federal de Santa Catarina -UFSC. Componente curricular: Sociologia - IEE)
+</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Second Photo Grid-->
+  
+  <div class="w3-row-padding">
+    <!-- Projeto 4-->
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://www.youtube.com/embed/YgKdihXQ1ZA" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/YgKdihXQ1ZA" title="Grandes Olhos - Trailer Oficial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+        <a href="https://www.youtube.com/embed/YgKdihXQ1ZA" target="_blank"><p><b>Grandes Olhos</b></p></a>
+        <p>Um filme que nos traz um copilado de sentimentos, indignação, injustiça, raiva e alegria. O desenrolar da história podemos notar sua nítida luta feminista e a luta por justiça. 
+          Mostra a dificuldade das mulheres de serem ouvidas, notadas de uma forma não sexual e credibilizadas por seu trabalho e esforço. O real sentido e o motivo do por que a artes é expressada por pinturas de criança com grandes olhos, é algo profundo da própria pintora e o real sentimento de uma pintura não nem sempre precisa ser realmente exposta.
+
+          <br>(<b>Mikkael Bento Maciel</b>, 3° Ano do Ensino Médio, turma: 303)
+
+
+</p>
+      </div>
+    </div>
+    
+    <div class="w3-third w3-container w3-margin-bottom">
+            <!-- Projeto 5-->
+       <a href="https://www.youtube.com/embed/vjq2FgjpXow" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/vjq2FgjpXow" title="A Garota Dinamarquesa - Trailer Internacional" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+        <a href="https://www.youtube.com/embed/vjq2FgjpXow" target="_blank"><p><b>A Garota Dinamarquesa</b></p></a>
+        <p>"Garota Dinamarquesa", conta a história de Lili Elbe, uma das primeiras a passar por cirurgia de redesignação sexual. O filme explora sua luta para se afirmar como mulher em uma sociedade com normas rígidas de gênero e as dificuldades enfrentadas por pessoas trans. Ambientado nos anos 1920, provoca reflexões sobre a falta de aceitação da identidade de gênero e o lento progresso dos direitos LGBTQIA+, questionando a medicalização da identidade e a influência das normas sociais.
+
+<br> (Classificação - +16
+          Autora- <b>Fernanda Costantini</b>, 3° Ano do Ensino Médio Turma – 312 do Instituto Estadual de Educação - IEE)
+</p>
+      </div>
+    </div>
+    
+    <div class="w3-third w3-container">
+      
+      <!-- Projeto 6-->
+      <a href="https://www.youtube.com/watch?v=K9x1hHlPHmo" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/K9x1hHlPHmo" title="As Nadadoras | Trailer | Dublado (Brasil) [4K]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+        <a href="https://www.youtube.com/watch?v=K9x1hHlPHmo" target="_blank"><p><b>As Nadadoras</b></p></a>
+        <p>As Nadadoras" narra a corajosa odisseia de Yusra e Sara Mardini, irmãs sírias cuja paixão pelo nado transcende as águas turvas de um país em guerra. 
+          Em meio ao caos e aos escombros de Damasco, elas se lançam em uma busca desesperada por liberdade e dignidade. Com a determinação de seus jovens corações, 
+          fogem do tumulto de sua terra natal, embrenhando-se nas vastas e implacáveis ondas do Mar Egeu, que servem tanto de caminho quanto de juízo para os desbravadores. 
+          Enfrentando a ira do mar e a frieza da indiferença humana, essas duas almas lutam contra todas as probabilidades, guiadas por um sonho que brilha mais do que qualquer medalha olímpica: 
+          um futuro seguro e a chance de competir sob a bandeira da esperança e resiliência. "As Nadadoras" é uma história que celebra o espírito humano, com a bravura de suas protagonistas ressoando 
+          como um farol nas sombras da adversidade.
+
+          <b>Amanda Temochko Bochilof  e Dandara Aparecida Machado</b> – Alunas da turma 302 3° Ano do Ensino Médio do Instituto Estadual de Educação de SC. IEE. 
+
+</p>
+
+      </div>
+    </div>
+  </div>
+  
+    <!-- First Photo Grid-->
+  <div class="w3-row-padding">
+    
+    <!-- Projeto 7-->
+    <div class="w3-third w3-container w3-margin-bottom">
+       <a href="https://www.youtube.com/watch?v=FQ9hCN0ZYSg" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/FQ9hCN0ZYSg" title="AmarElo - É Tudo Pra Ontem | Trailer oficial | Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+        <a href="https://www.youtube.com/watch?v=FQ9hCN0ZYSg" target="_blank"><p><b>AmarElo: É tudo pra Ontem do Emicida</b></p></a>
+        <p>No documentário "Amar(Elo)" combina dois momentos importantes: uma autobiografia do rapper Emicida e dos bastidores da construção do seu último álbum. Ao decorrer da narrativa ele conta a história da negritude brasileira, que possui, a princípio, a função de alertar o telespectador que o racismo é estrutural e latente. E que reivindicar espaços de validação cultural injustamente interditados aos negros.
+
+          <b>Tuany Amorim de Souza e Yosneikar Milagro Godoy Mogollon</b> 3° Ano do Ensino Médio. Turma: 303
+</p>
+      </div>
+      
+      <!-- Projeto 8-->
+    </div>
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://www.youtube.com/watch?v=wx3PVtrU-Os" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/wx3PVtrU-Os" title="Estrelas Além do Tempo | Trailer Internacional Oficial | Legendado HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+         <a href="https://www.youtube.com/watch?v=wx3PVtrU-Os" target="_blank"><p><b>Estrelas Além do Tempo</b></p></a>
+        <p> Estrelas Além do Tempo retrata a luta de três mulheres afro-americanas na NASA, abordando temas de racismo e sexismo. 
+          O filme destaca como elas enfrentam barreiras devido as opressões, mostrando a importância da resistência e da solidariedade feminina.
+          <b>Fernanda Costantini Lemos e Julia Santos Ramos</b>, 3° Ano do Ensino Médio, Turma: 312.
+
+</p>
+      </div>
+    </div>
+    
+    <!-- Projeto 9-->
+    <div class="w3-third w3-container">
+     <a href="https://www.youtube.com/watch?v=K9WRHwn4Kdg" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/K9WRHwn4Kdg" title="A História das Coisas - Parte 03" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+        <a href="https://www.youtube.com/watch?v=K9WRHwn4Kdg" target="_blank"><p><b>A História das Coisas</b></p></a>
+        <p>O Curta-metragem: A História das Coisas analisa o ciclo de produção e consumo, trazendo em evidencia a exploração dos recursos naturais e a desigualdade social gerada pelo consumismo. O curta destaca como essa cultura impacta o meio ambiente e as relações sociais, convidando a uma reflexão sobre a necessidade de hábitos mais sustentáveis para um futuro mais justo!
+          <br>(<b>Julia Santos Ramos</b>, 3° Ano do Ensino Médio. Turma 312.)</p>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Second Photo Grid-->
+  
+  <div class="w3-row-padding">
+    <!-- Projeto 10-->
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://www.youtube.com/watch?v=vDY_uZAaU7g" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/vDY_uZAaU7g" title="Forrest Gump: O Contador De Histórias (1994) | Trailer [Dublado]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+        <a href="https://www.youtube.com/watch?v=vDY_uZAaU7g" target="_blank"><p><b>Forrest Gump - O Contador de Histórias</b></p></a>
+        <p>Forrest Gump - O Contador de Histórias é um filme norte-americano de 1994, dirigido por Robert Zemeckis, com roteiro de Eric Roth, baseado no romance homônimo de Winston Groom. O filme traz Tom Hanks no personagem principal. O enredo mostra as décadas da vida de Forrest Gump, um homem simples do Alabama que, em sua trajetória de vida pelos EUA, encontra grandes personalidades históricas, que influenciaram a cultura, a política e geraram grandes transformações históricas, políticas e sociais internacionalmente. Forrest presencia e vivencia alguns eventos mais notáveis da história dos EUA ao final do século XX. O que torna o enredo interessantemente sociológico é que podemos fazer uma relação com conceito de Imaginação Sociológica do sociólogo norte-americano Wright Mills (1972). Em que o autor traz uma relação entre a biografia e a história, ou seja, tudo que as pessoas comuns vivem, em suas órbitas da vida privada tem uma relação intrínseca com os grandes eventos históricos nas  instituições sociais em que fazem parte, ouse seja, tem relação com os fenômenos culturais, políticos e econômicos de cada sociedade.  
+
+          <b>Professora Dra. Melissa Gabriella Lopes Barcellos</b> – Componente Curricular de Sociologia do Instituto Estadual de Educação – IEE. 
+Classificação etária: 14 anos
+
+</p>
+      </div>
+    </div>
+    
+    <div class="w3-third w3-container w3-margin-bottom">
+            <!-- Projeto 11-->
+       <a href="https://www.youtube.com/embed/vjq2FgjpXow" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/i_Z8m-OtMUg" title="O Contador de Histórias - Trailer Final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+        <a href="https://www.youtube.com/embed/vjq2FgjpXow" target="_blank"><p><b>O Contador de Histórias (nacional)</b></p></a>
+        <p>O filme "O Contador de Histórias", dirigido por Luiz Villaça em 2009, baseia-se na história real de Roberto Carlos Ramos e critica as falhas educacionais da antiga Fundação Estadual para o Bem Estar do Menor (FEBEM), 
+          contrapondo-se à transformação positiva proporcionada pela intervenção de uma pedagoga francesa, que demonstrou acolhimento, solidariedade e inclusão social. O enredo destaca uma pedagogia fundamentada no amor e evidencia 
+          a importância da educação e da cultura como pilares de cidadania. Através dos conceitos sociológicos de "habitus" e "campo" de Pierre Bourdieu, o filme mostra como a trajetória de vida de Roberto foi alterada pela educação 
+          capital cultural adquiridos sob a tutoria da pedagoga, que o afastou das limitações impostas pelo ambiente da FEBEM e o inseriu em um novo campo de possibilidades.<br>
+          Classificação: 14 anos. 
+
+          <b>Professora Dra. Melissa Gabriella Lopes Barcellos</b> – Componente Curricular de Sociologia do Instituto Estadual de Educação – IEE.
+
+</p>
+      </div>
+    </div>
+    
+    <div class="w3-third w3-container">
+      
+      <!-- Projeto 12-->
+      
+     
+      <a href="https://www.youtube.com/watch?v=0UE3OJIVMow" target="_blank"><iframe width="100%" height="300" src="https://www.youtube.com/embed/0UE3OJIVMow" title="Tiros em columbine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+      <div class="w3-container w3-white">
+        <a href="https://www.youtube.com/watch?v=0UE3OJIVMow" target="_blank"><p><b>Tiros em Columbine</b></p></a>
+        <p>O documentário "Bowling for Columbine", dirigido por Michael Moore, investiga a obsessão dos americanos por armas, utilizando como ponto de partida o massacre na Columbine High School em 1999. 
+          Moore critica a cultura armamentista dos EUA, evidenciando como o comércio de armas é naturalizado no país e como o medo é utilizado como ferramenta de lucro e controle social. Inspirando-se nas 
+          ideias de Zygmunt Bauman sobre o "capital do medo" e a "cultura do medo", Moore argumenta que o medo, amplificado pela mídia sensacionalista e pelo governo, não só aumenta a audiência e vende armas, 
+          mas também reforça a insegurança e a desconfiança, promovendo uma mentalidade de autoproteção. O documentário sugere que essa exploração do medo é um dos principais motores da violência armada nos Estados Unidos.</p>
+
+      </div>
+    </div>
+  </div>
+  
+
+                    
+  <!-- Pagination -->
+      
+      <!--
+
+  <div class="w3-center w3-padding-32">
+    <div class="w3-bar">
+      <a href="#" class="w3-bar-item w3-button w3-hover-black">&laquo;</a>
+      <a href="https://professor-online.glitch.me/" class="w3-bar-item w3-black w3-button">1</a>
+      <a href="https://professor-online.glitch.me/" class="w3-bar-item w3-button w3-hover-black">2</a>
+      <a href="https://professor-online.glitch.me/" class="w3-bar-item w3-button w3-hover-black">3</a>
+      <a href="https://professor-online.glitch.me/" class="w3-bar-item w3-button w3-hover-black">4</a>
+      <a href="#" class="w3-bar-item w3-button w3-hover-black">&raquo;</a>
+    </div>
+  </div>
+
+--> 
+      
+  <!-- Images of Me -->
+ <div class="w3-row-padding w3-padding-16" id="about">
+    <div class="w3-col m6">
+      <!--<img src="#" alt="Me" style="width:100%"> -->
+    </div>
+   <div class="w3-col m6">
+     <!-- <img src="/w3images/me2.jpg" alt="Me" style="width:100%"> -->
+    </div>
+  </div>
+
+  <div class="w3-container w3-padding-large" style="margin-bottom:32px">
+   
+    <h2><b>Tela Crítica - Sociologia e Cinema</b></h2>
+
+<p>O projeto "Tela Crítica" é uma iniciativa que busca explorar a intersecção entre Sociologia e Cinema, utilizando 
+  filmes como ferramentas de análise crítica para entender questões sociais, políticas e culturais. Através de sessões 
+  de exibição de filmes seguidas de debates e discussões, o projeto visa fomentar a reflexão e o pensamento crítico entre
+  estudantes e a comunidade em geral. "Tela Crítica" permite que os participantes examinem temas como desigualdade social,
+  identidade, poder e justiça, promovendo um ambiente de aprendizagem dinâmico e interativo que une teoria sociológica e narrativa cinematográfica.</p>
+
+
+  <!-- Contact Section -->
+    
+    
+    
+  <div class="w3-container w3-padding-large w3-grey">
+    <h4 id="contact"><b>Contact Me</b></h4>
+    <div class="w3-row-padding w3-center w3-padding-24" style="margin:0 -16px">
+      <div class="w3-third w3-dark-grey">
+        <p><i class="fa fa-envelope w3-xxlarge w3-text-light-grey"></i></p>
+        <p>Sociologia IEE</p>
+      </div>
+      <div class="w3-third w3-teal">
+        <p><i class="fa fa-map-marker w3-xxlarge w3-text-light-grey"></i></p>
+        <p>Florianópolis, SC</p>
+      </div>
+      <div class="w3-third w3-dark-grey">
+        <p><i class="fa fa-phone w3-xxlarge w3-text-light-grey"></i></p>
+        <p>(48) 3664-2837</p>
+      </div>
+    </div>
+    <hr class="w3-opacity">
+    <form action="/action_page.php" target="_blank">
+     
+  
+      <div class="w3-black w3-center w3-padding-24">by <a href="#" title="W3.CSS" target="_blank" class="w3-hover-opacity">Ivan Melo </a></div>
+
+<!-- End page content -->
+
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+</script>
+
+</body>
+</html>
